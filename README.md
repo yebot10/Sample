@@ -1,2 +1,2 @@
 # Sample
-This is a sample repository for learning purposes
+This repository contains the very first Python assignment / code I ever created.
